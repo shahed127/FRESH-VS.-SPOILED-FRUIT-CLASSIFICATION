@@ -1,0 +1,17 @@
+# TensorFlow / TensorFlow Hub experiment
+tensorflow
+tensorflow-hub
+
+# PyTorch / Hugging Face Vision Transformer experiment
+torch
+torchvision
+transformers
+
+# Data processing and evaluation
+numpy
+scikit-learn
+Pillow
+tqdm
+
+# Visualization
+matplotlib
